@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img heith=250 width=250 src="images\lshap.png">
+  <img heith=250 width=250 src="images\ls.png">
 </p>
 
 # LightningSHAP: A Cost-Effective Approach to Shapley Values Estimation
