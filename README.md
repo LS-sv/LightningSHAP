@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img heith=250 width=250 src="images\lightningshap.jpg" style="border-radius: 50%;">
+  <img heith=250 width=250 src="images\lshap.png">
 </p>
 
 # LightningSHAP: A Cost-Effective Approach to Shapley Values Estimation
