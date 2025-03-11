@@ -39,7 +39,8 @@ Details:
 
 
 ### Disclaimer
-Currently, the implementation of LightningSHAP is available in the form of Python notebooks in this repository. The notebooks contain all the necessary code to reproduce our experiments and apply LightningSHAP to your own datasets.
+Currently, the implementation of LightningSHAP is available in the form of Python notebooks in this repository. <br />
+The notebooks contain all the necessary code to reproduce our experiments and apply LightningSHAP to your own datasets.
 
 After acceptance, we plan to release a plug-and-play library that will make it even easier to integrate LightningSHAP into your projects. The library will provide:
 
@@ -51,8 +52,9 @@ Stay tuned for updates on the release of our library. In the meantime, feel free
 
 ## Datasets:
 All datasets are downloaded from the open source libraries: [UCI](https://archive.ics.uci.edu/datasets), [OpenML](https://openml.org/search?type=data), [SHAP](https://shap.readthedocs.io/en/latest/api.html), [Kaggle](https://www.kaggle.com/datasets) and [TF](https://www.tensorflow.org/datasets).<br />
-For the seek of reproducibility, we provide all tabular datasets inside the folder [data](data). Image data are directly downloaded inside code.
-For the real-word scenario data, due to the size, we provide the download links: [KDDCup99](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) and [BTC](https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd). After the download, place the unzipped elements into the folder [data](data).
+For the seek of reproducibility, we provide all tabular datasets inside the folder [data](data). Image data are directly downloaded inside code.<br />
+For the real-word scenario data, due to the size, we provide the download links: [KDDCup99](https://kdd.ics.uci.edu/databases/kddcup99/kddcup99.html) and [BTC](https://www.kaggle.com/datasets/prasoonkottarathil/btcinusd). <br />
+After the download, place the unzipped elements into the folder [data](data).
 
 ## Implementation Details
 
