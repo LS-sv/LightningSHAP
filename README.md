@@ -14,6 +14,7 @@ LightningSHAP is a novel neural network-based estimator for Shapley Values that 
 
 ## Code
 To run the experiments, install the dependencies in the [`requirements.txt`](requirements.txt) file.<br />
+All experiments are exectud with `python==3.8.20` on a conda environment due to compatibility issues with all methods.
 
 ### Usage - Tabular
 Tabular experiments can be run follwing [Tabular.ipynb](Tabular.ipynb).<br />
