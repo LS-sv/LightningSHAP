@@ -46,6 +46,7 @@ After acceptance, we plan to release a plug-and-play library that will make it e
 
 - Simple APIs for both tabular and image data
 - Integration with popular machine learning frameworks
+- A complete visualization framework
 - Comprehensive documentation and examples
 
 Stay tuned for updates on the release of our library. In the meantime, feel free to explore the notebooks and experiment with LightningSHAP on your own data.
